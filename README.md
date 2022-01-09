@@ -1,5 +1,7 @@
 # Register-bot-discord
-(Jangan lupa untuk baca langkah-langkah 😊) CEK DI FOLDER DSGNRE-MAIN
+(Jangan lupa untuk baca langkah-langkah 😊) 
+
+CEK DI FOLDER DSGNRE-MAIN
 
 ## Keterangan
 
