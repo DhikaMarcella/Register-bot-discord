@@ -40,10 +40,6 @@ Hallo semuanya
 
 ## 😆 Jangan lupa!
 
-- Jangan lupa untuk cek file index.js untuk:
- ~ token bot
- ~ prefix
- ~ set activity bot
- ~ jawaban dari bot tersebut
+- Jangan lupa untuk cek file index.js untuk: token bot, prefix,set activity bot, dan jawaban dari bot tersebut
 
-😂 Jangan sampai lupa ya!
+Jangan sampai lupa ya!
