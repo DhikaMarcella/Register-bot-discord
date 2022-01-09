@@ -1,8 +1,10 @@
 # Register-bot-discord
-Jangan lupa untuk baca langkah-langkah 😊
+(Jangan lupa untuk baca langkah-langkah 😊)
 
 
-Hallo semuanya
+
+
+Hallo semuanya :)
 
 
 ## Keterangan
