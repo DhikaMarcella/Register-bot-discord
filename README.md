@@ -38,6 +38,6 @@ CEK DI FOLDER DSGNRE-MAIN
 
 ## 😆 Jangan lupa!
 
-- Jangan lupa untuk cek file index.js untuk: token bot, prefix, set activity bot, dan jawaban dari bot tersebut
+- Jangan lupa untuk cek file index.js untuk: token bot, prefix, set activity bot, copy id (role) dan jawaban dari bot tersebut
 
 Jangan sampai lupa ya!
