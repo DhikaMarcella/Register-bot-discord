@@ -1,0 +1,14 @@
+{
+  "name": "registerbot_by_someone",
+  "version": "1.0.0",
+  "description": "Tidak untuk dijual ya :)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "DhikaMarcella",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
+}
