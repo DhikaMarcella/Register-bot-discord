@@ -1,12 +1,6 @@
 # Register-bot-discord
 (Jangan lupa untuk baca langkah-langkah 😊)
 
-
-
-
-Hallo semuanya :)
-
-
 ## Keterangan
 
 - Bot ini tidak untuk diperjual belikan
