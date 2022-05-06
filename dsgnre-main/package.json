@@ -1,7 +1,7 @@
 {
   "name": "registerbot_by_someone",
   "version": "1.0.0",
-  "description": "Tidak untuk dijual ya :)",
+  "description": "Tidak untuk di perjualbelikan ya :)",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
